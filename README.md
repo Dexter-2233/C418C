@@ -1,6 +1,5 @@
 ss://YWVzLTEyOC1nY206NGYzNmUxY2QtNGU4Mi00OTc2LWI3MmEtMmEzMDY4YjU5NDMz@ftp.cn.debian.cdnet.in:8040#KR1(IEPL)%2b-%2b%e8%b4%9f%e8%bd%bd%e5%9d%87%e8%a1%a1%e4%b8%93%e7%ba%bf
 trojan://0654731b-e414-4031-962d-be4c8e9579c8@cm-gz.okvpn.xyz:20000?allowInsecure=1#aaa+189
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlNvdXRoIEtvcmVhIDEzIiwNCiAgImFkZCI6ICJoazEzLmJwNzc3LmJ1enoiLA0KICAicG9ydCI6ICIyMTY2NSIsDQogICJpZCI6ICJiYmY3MGExMS03NjdkLTQ5YzYtYTYxMi05N2E0NTUzYWFhYTIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 ss://YWVzLTEyOC1nY206NGYzNmUxY2QtNGU4Mi00OTc2LWI3MmEtMmEzMDY4YjU5NDMz@ftp.cn.debian.cdnet.in:8070#US1(IEPL)%2b-%2b%e8%b4%9f%e8%bd%bd%e5%9d%87%e8%a1%a1%e4%b8%93%e7%ba%bf
 ss://YWVzLTEyOC1nY206NGYzNmUxY2QtNGU4Mi00OTc2LWI3MmEtMmEzMDY4YjU5NDMz@ftp.cn.debian.cdnet.in:8030#JP1(IEPL)%2b-%2b%e8%b4%9f%e8%bd%bd%e5%9d%87%e8%a1%a1%e4%b8%93%e7%ba%bf
 ss://YWVzLTEyOC1nY206NGYzNmUxY2QtNGU4Mi00OTc2LWI3MmEtMmEzMDY4YjU5NDMz@ftp.cn.debian.cdnet.in:8060#RU1(IEPL)%2b-%2b%e8%b4%9f%e8%bd%bd%e5%9d%87%e8%a1%a1%e4%b8%93%e7%ba%bf
